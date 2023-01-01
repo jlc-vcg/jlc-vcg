@@ -6,9 +6,9 @@
 - Programming Langauges: 
 1. Python
 2. JavaScript
-3. C/C++/C#
+3. C3 family (C/C++/C#)
 4. Java
-5. Matlab
+5. MatLab
 - Project Types
 1. Web Development
 2. Artificial Intelligence
