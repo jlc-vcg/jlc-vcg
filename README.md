@@ -6,20 +6,18 @@
 - Programming Langauges: 
 1. Python
 2. JavaScript
-3. C3 family (C/C++/C#)
+3. C
 4. Java
-5. MatLab
+5. SQL
 - Project Types
-1. Web Development
+1. Web Dev
 2. Artificial Intelligence
 3. Quantum Computing
-4. Internet of Things
-5. Game Development
 - Technologies
 1. APIs
 2. Kubernetes
 3. Cloud Computing
-4. Databases (incl. SQL)
+4. Databases
 5. Authentication
 
 <!---
