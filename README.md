@@ -1,5 +1,7 @@
 👋 I’m Josh, currently a Software Developer at Tesco.
+
 💞️ I’d love to work on open-source and charitable projects, or collaborate on Hackathons.
+
 👀 I’m interested in pretty much everything, especially Computing, Physics, Maths and Philosophy.
 
 🌱 Here's what I'm currently learning (mostly for my own use as reminders!):
