@@ -1,24 +1,21 @@
-- 👋 Hi, I’m Josh, a Durham University Undergraduate student exploring the tech industry!
-- 👀 I’m interested in pretty much everything, especially Computing, Physics, Maths and Philosophy. See my learning list below!
-- 💞️ I’d love to work on open-source and charitable projects, or collaborate on Hackathons.
-- 📫 If you can contact me via GitHub, go ahead! I don't have any external contact methods.
-- 🌱 To-Learn list (mostly for my own use as reminders!)
+👋 I’m Josh, currently a Software Developer at Tesco.
+💞️ I’d love to work on open-source and charitable projects, or collaborate on Hackathons.
+👀 I’m interested in pretty much everything, especially Computing, Physics, Maths and Philosophy.
+
+🌱 Here's what I'm currently learning (mostly for my own use as reminders!):
 - Programming Langauges: 
 1. Python
 2. JavaScript
-3. C
-4. Java
-5. SQL
+3. Java
+
 - Project Types
-1. Web Dev
-2. Artificial Intelligence
-3. Quantum Computing
+1. Web Development
+2. Machine Learning
+
 - Technologies
-1. APIs
-2. Kubernetes
-3. Cloud Computing
-4. Databases
-5. Authentication
+1. Databases/SQL
+2. APIs
+3. Kubernetes
 
 <!---
 jlc-vcg/jlc-vcg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
